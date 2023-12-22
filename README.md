@@ -20,6 +20,6 @@ The dataset We used is LPD-5-cleansed
 
 ## The sample music contains in the /generated_music fold
 
-The visualization of music tracks in the train data: ![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+The visualization of music tracks in the train data: ![Image text](trackvisualization.png)
 
 
